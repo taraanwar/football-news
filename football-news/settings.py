@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'football_news.urls'
+ROOT_URLCONF = 'football-news.urls'
 
 TEMPLATES = [
     {
@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'football_news.wsgi.application'
+WSGI_APPLICATION = 'football-news.wsgi.application'
 
 
 # Database
