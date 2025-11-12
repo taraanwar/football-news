@@ -6,3 +6,4 @@ requests
 urllib3
 python-dotenv
 selenium==4.25.0
+django-cors-headers
